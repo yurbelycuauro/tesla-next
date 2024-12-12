@@ -2,7 +2,7 @@
 export default function () {
   return (
     <div>
-      <h1>Category Page </h1>
+      <h1>Admin Page </h1>
     </div>
   );
 }
